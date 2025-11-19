@@ -9,7 +9,7 @@
 </head>
 <body id="home">
     <form id="form1" runat="server">
-        <div id="home_" class="home">
+        <div id="home_" class="home">werty
             <asp:Login ID="Login1" runat="server">
             </asp:Login>
             <asp:CreateUserWizard ID="CreateUserWizard1" runat="server">
@@ -22,3 +22,4 @@
     </form>
 </body>
 </html>
+wefewfwefweqfqefq
